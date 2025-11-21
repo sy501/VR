@@ -146,10 +146,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -2.172090264849416,
-          "pitch": -0.21991541988146324,
+          "yaw": -2.2079754566363654,
+          "pitch": -0.23940969125501255,
           "title": "噴水池",
-          "text": "<br>"
+          "text": "菸廠停產後，原有的蓄水池變成生態景觀池"
         }
       ]
     },
@@ -200,7 +200,7 @@ var APP_DATA = {
           "yaw": 1.070103842585027,
           "pitch": 0.18855490142355258,
           "title": "松山菸草工廠",
-          "text": "Text"
+          "text": "日治時期建立，成為台灣第一座捲菸工廠"
         }
       ]
     },
@@ -248,15 +248,15 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -3.055865689075727,
-          "pitch": 0.10843734709558639,
-          "title": "Title",
-          "text": "Text"
+          "yaw": -2.859217953481039,
+          "pitch": 0.3533127039835211,
+          "title": "市集",
+          "text": "區內經常舉辦市集，販賣各種文創商品"
         }
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "中庭",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
